@@ -1,5 +1,29 @@
 <h1 align="center">Hi 👋, I'm Adil</h1>
 <h3 align="center">A Full stack Developer With Java And Angular</h3>
+<h4>As a Full Stack Java Developer, I specialize in leveraging my proficiency in both Java and Angular with all version to create robust and dynamic web applications. With a deep understanding of front-end and back-end along with database development, I strive to craft seamless user experiences while ensuring the scalability and efficiency of the underlying systems.
+</h4>
+
+<p>
+  
+**Technical Proficiency:**
+
+**Java:** Proficient in Java EE and Spring frameworks, I excel in developing scalable and secure backend solutions. From designing RESTful APIs to implementing robust authentication mechanisms, I leverage Java's versatility to build resilient server-side components.
+
+**Angular:** With a strong command over AngularJS and Angular 2+ [6/7/8/14/15/16], I specialize in creating dynamic and responsive front-end applications. I have expertise in component-based architecture, routing, state management, and optimizing performance to deliver seamless user experiences across devices.
+
+**Database Management:** Experienced in working with relational databases like MySQL and PostgreSQL. I am adept at designing database schemas, writing efficient queries, and ensuring data integrity.
+
+**Version Control & Collaboration:** Proficient in Git for version control.
+ 
+**Cloud:** As a skilled professional proficient in Google Cloud Platform (GCP) technology, I excel in architecting and implementing innovative cloud solutions. With expertise in GCP services such as Compute Engine, Cloud function and other services, I specialize in building scalable, secure, and resilient applications in the cloud. 
+
+
+
+
+
+
+  
+</p>
 
 - 💬 Ask me about **Angular and Java related query** on alisdevofficial@gmail.com
 
