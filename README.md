@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Adil</h1>
 <h3 align="center">A Full stack Developer With Java And Angular</h3>
 
-- 💬 Ask me about **Angular and Java related query**
+- 💬 Ask me about **Angular and Java related query** on alisdevofficial@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://medium.com/@alisnagina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alisnagina" height="30" width="40" /></a>
+  alisdevofficial@gmail.com
+<!-- <a href="https://medium.com/@alisnagina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alisnagina" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
